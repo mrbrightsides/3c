@@ -54,6 +54,6 @@ def embed_iframe(src, height=900):
     </div>
     """, height=height)
 
-iframe_url = "https://3cs.elpeef.com/"
+iframe_url = "https://3c.elpeef.com/"
 
 embed_iframe(iframe_url, height=900)
