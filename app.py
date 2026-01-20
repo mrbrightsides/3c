@@ -15,7 +15,9 @@ with st.sidebar:
     st.sidebar.markdown("📘 **About**")
     st.sidebar.markdown("""
     **3C** is a carbon footprint management platform that combines Cloud Computing, Climate Analysis, and Blockchain Technology to provide a comprehensive solution for monitoring and certifying environmental impact.
+    
     ---
+    
     #### 🔮 Vision Statement
     
     Integrating Technology for a Sustainable Future
@@ -23,11 +25,13 @@ with st.sidebar:
     > The original version can be accessed here https://3c.elpeef.com/
    
     ---
+    
     ### 🧩 Apps Showcase
     Our other apps and tools can be seen here:
     [ELPEEF](https://showcase.elpeef.com/)
     
     ---
+    
     #### 🙌 Support & Contribute
     
     - ⭐ **Star / Fork**: [GitHub repo](https://github.com/mrbrightsides/3c)
